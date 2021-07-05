@@ -1,5 +1,3 @@
-# Churn_Prediction
-
 # Figuring Our Which Customers May Leave - Churn Analysis
 
 ### About our Dataset
